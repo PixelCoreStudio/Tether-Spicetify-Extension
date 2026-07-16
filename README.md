@@ -1,1 +1,2 @@
-# Tether-Spicetify-Extension
+# Tether
+![[preview.png]]
