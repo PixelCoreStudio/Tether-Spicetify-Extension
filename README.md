@@ -2,7 +2,7 @@
 
 ## ⭐ Don't forget to star the project if you like it. It helps the project to be seen more.
 
-[![Release](https://img.shields.io/github/v/release/PixelCoreStudio/Tether-Spicetify-Extension?label=release&color=blue)](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/releases)[![Stars](https://img.shields.io/github/stars/PixelCoreStudio/Tether-Spicetify-Extension?style=social)](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/stargazers)
+[![Release](https://img.shields.io/github/v/release/PixelCoreStudio/Tether-Spicetify-Extension?label=release&color=blue)](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/releases)[![Stars](https://img.shields.io/github/stars/PixelCoreStudio/Tether-Spicetify-Extension?style=social)](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/stargazers)[![Discord](https://img.shields.io/discord/1520763510852948099?label=Beautiful%20Lyrics&logo=discord&color=7289DA)](https://discord.gg/AqZmmXQDm3)
 
 <img width="3812" height="1938" alt="preview" src="https://github.com/user-attachments/assets/b35cb474-e228-4757-9460-591df7abfdca" />
 
