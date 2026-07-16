@@ -8,11 +8,11 @@
 
 ## A new way to controll your Spotify end get a overlay without having to pay for premium.
 ### Controll and Freedom for Everyone
-If you don't have Premium, Spotify won't give you the feature to controll spotify with any makro deck
+If you don't have Premium, Spotify won't give you the feature to controll spotify with any macro deck
 or get an live synced overlay because you don't get access to the developer tools anymore.
 
-With Tether you get that for **Free**. Full controll with your preffered Makro deck 
-like Elgato Stream Deck or Macro Deck or even Touch Portal. And a beautifull overlay creator.
+With Tether you get that for **Free**. Full controll with your preffered Macro deck 
+like Elgato Stream Deck or Macro Deck 2 or even Touch Portal. And a beautifull overlay creator.
 
 ## The Instalation
 
@@ -56,4 +56,4 @@ If you see something like this everything is setup you can go in the editor and 
 
 ### If you encounter any problem/fail or need help you can open a issue on github or contact me in [Discord](https://discord.gg/AqZmmXQDm3)
 
-Also the tutorial for implementing in macro decks is AI generated if something is wrong and you know how feel free to tell me because I don't use most of the macro decks.
+Also the tutorial for implementing in macro decks is AI generated if something is wrong and you know how feel free to tell me because I don't use most of the macro decks. I only made an extension for Macro Deck 2 for now but I don't know when it gets published to the plugin store.
