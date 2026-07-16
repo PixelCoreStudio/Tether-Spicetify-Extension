@@ -1,0 +1,237 @@
+{
+  "widgetWidthSlider": "634",
+  "widgetWidth": "634",
+  "widgetHeightSlider": "225",
+  "widgetHeight": "120",
+  "widgetHeightAuto": true,
+  "widgetPaddingSlider": "20",
+  "widgetPadding": "15",
+  "bgOpacitySlider": "0.85",
+  "bgOpacity": "0.75",
+  "bgType": "linear",
+  "bgColor": "#000000",
+  "bgColorAlpha": "1",
+  "stopColorPicker": "#55215f",
+  "stopColorAlpha": "1",
+  "stopPosition": "100",
+  "bgDirection": "to bottom right",
+  "showShadow": true,
+  "glowType": "gradient",
+  "glowColor": "#1db954",
+  "glowColorAlpha": "0.4",
+  "glowStopColorPicker": "#ff007f",
+  "glowStopColorAlpha": "1",
+  "glowStopPosition": "0",
+  "glowDirection": "to right",
+  "glowBlurSlider": "20",
+  "glowBlur": "20",
+  "glowSpreadSlider": "24",
+  "glowSpread": "24",
+  "syncRadius": true,
+  "tlRadiusSlider": "16",
+  "tlRadius": "16",
+  "trRadiusSlider": "16",
+  "trRadius": "16",
+  "blRadiusSlider": "16",
+  "blRadius": "16",
+  "brRadiusSlider": "16",
+  "brRadius": "16",
+  "borderActive": false,
+  "borderType": "gradient",
+  "borderWidthSlider": "2",
+  "borderWidth": "2",
+  "borderColor": "#282828",
+  "borderColorAlpha": "1",
+  "borderStopColorPicker": "#55215f",
+  "borderStopColorAlpha": "1",
+  "borderStopPosition": "100",
+  "borderDirection": "to bottom right",
+  "coverSizeSlider": "80",
+  "coverSize": "80",
+  "ctlRadiusSlider": "8",
+  "ctlRadius": "8",
+  "coverSpin": false,
+  "vinylHole": true,
+  "vinylSpeedSlider": "30",
+  "vinylSpeed": "30",
+  "fontEngineMode": "google",
+  "customFontName": "Inter",
+  "fontSizeTitleSlider": "20",
+  "fontSizeTitle": "20",
+  "fontSizeArtistSlider": "16",
+  "fontSizeArtist": "16",
+  "titleGradientActive": true,
+  "textColor": "#ffffff",
+  "textColorAlpha": "1",
+  "titleStopColorPicker": "#ad94cc",
+  "titleStopColorAlpha": "1",
+  "titleStopPosition": "100",
+  "titleGradAngleSlider": "114",
+  "titleGradAngle": "114",
+  "artistGradientActive": true,
+  "artistColor": "#9ca3af",
+  "artistColorAlpha": "1",
+  "artistStopColorPicker": "#ad94cc",
+  "artistStopColorAlpha": "1",
+  "artistStopPosition": "100",
+  "artistGradAngleSlider": "90",
+  "artistGradAngle": "90",
+  "textStrokeActive": false,
+  "textStrokeType": "solid",
+  "textStrokeColor": "#000000",
+  "textStrokeColorAlpha": "0.3",
+  "strokeStopColorPicker": "#1db954",
+  "strokeStopColorAlpha": "1",
+  "strokeStopPosition": "0",
+  "strokeDirection": "to right",
+  "textStrokeWidthSlider": "1",
+  "textStrokeWidth": "1",
+  "fontShadow": false,
+  "textShadowColor": "#000000",
+  "textShadowColorAlpha": "0.6",
+  "shadowXSlider": "1",
+  "shadowX": "1",
+  "shadowYSlider": "1",
+  "shadowY": "1",
+  "shadowBlurSlider": "3",
+  "shadowBlur": "3",
+  "showSeparator": true,
+  "separatorType": "gradient",
+  "separatorHeightSlider": "1",
+  "separatorHeight": "1",
+  "separatorColor": "#282828",
+  "separatorColorAlpha": "1",
+  "sepStopColorPicker": "#cc9494",
+  "sepStopColorAlpha": "1",
+  "sepStopPosition": "0",
+  "sepDirection": "to right",
+  "showProgressBar": true,
+  "progressBarType": "gradient",
+  "timeDisplayMode": "show",
+  "accentColor": "#1db954",
+  "accentColorAlpha": "1",
+  "progressStopColorPicker": "#ad94cc",
+  "progressStopColorAlpha": "1",
+  "progressStopPosition": "100",
+  "progressDirection": "to bottom right",
+  "progressBgColor": "#2a2222",
+  "progressBgColorAlpha": "0",
+  "simulateTime": false,
+  "enableScrolling": true,
+  "scrollThresholdSlider": "5",
+  "scrollThreshold": "5",
+  "scrollSpeedSlider": "12",
+  "scrollSpeed": "12",
+  "liveVolume": "50",
+  "entryAnimation": "animate-bounceIn",
+  "customAnimationClass": "custom-bounce",
+  "customKeyframesCss": "@keyframes custom-bounce {\n  0% { transform: translateY(100px) scale(0.8); opacity: 0; }\n  50% { transform: translateY(-10px) scale(1.05); opacity: 0.8; }\n  100% { transform: translateY(0) scale(1); opacity: 1; }\n}",
+  "entryDurationSlider": "1.85",
+  "entryDuration": "1.85",
+  "gradients": {
+    "background": {
+      "stops": [
+        {
+          "color": "#1f1e1e",
+          "position": 0
+        },
+        {
+          "color": "#55215f",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 1
+    },
+    "glow": {
+      "stops": [
+        {
+          "color": "#ff007f",
+          "position": 0
+        },
+        {
+          "color": "#7f00ff",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 0
+    },
+    "border": {
+      "stops": [
+        {
+          "color": "#000000",
+          "position": 0
+        },
+        {
+          "color": "#55215F",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 1
+    },
+    "title": {
+      "stops": [
+        {
+          "color": "#CC9494",
+          "position": 0
+        },
+        {
+          "color": "#AD94CC",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 1
+    },
+    "artist": {
+      "stops": [
+        {
+          "color": "#CC9494",
+          "position": 0
+        },
+        {
+          "color": "#AD94CC",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 1
+    },
+    "stroke": {
+      "stops": [
+        {
+          "color": "#1db954",
+          "position": 0
+        },
+        {
+          "color": "#ffca3a",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 0
+    },
+    "sep": {
+      "stops": [
+        {
+          "color": "#CC9494",
+          "position": 0
+        },
+        {
+          "color": "#AD94CC",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 0
+    },
+    "progress": {
+      "stops": [
+        {
+          "color": "#CC9494",
+          "position": 0
+        },
+        {
+          "color": "#AD94CC",
+          "position": 100
+        }
+      ],
+      "selectedIdx": 1
+    }
+  }
+}
