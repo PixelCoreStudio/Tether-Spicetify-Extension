@@ -34,7 +34,7 @@ Then install it with the Marketplace.
 
 # For the extension to work properly you need to install the server
 
-Go to the [newest Reale](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/releases/tag/Theter-Server) and download the tether-server.zip
+Go to the [newest Release](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/releases/tag/Theter-Server) and download the tether-server.zip
 Unpack the zip and put the unpacked folder somewhere where you remember it.
 
 After unpacking make sure you have NodeJs and npm installed check with `node -v` and `npm -v` if you dont have it installed follow the
