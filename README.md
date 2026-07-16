@@ -14,3 +14,5 @@ like Elgato Stream Deck or Macro Deck or even Touch Portal. And a beautifull ove
 
 If it is already released on the Spicetify Marketplace Install it on there
 if not go to [the plugin](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/tree/main/tether-plugin) and download the tether.js
+
+If you are in windows go to `	%appdata%\spicetify\Extensions\`
