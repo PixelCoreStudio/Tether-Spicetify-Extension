@@ -82,17 +82,31 @@
         Spicetify.Player.pause();
         break;
       case "toggle":
-        if (Spicetify.Player.isPlaying()) {
-          Spicetify.Player.pause();
-        } else {
-          Spicetify.Player.play();
-        }
+        Spicetify.Player.togglePlay();
         break;
       case "next":
         Spicetify.Player.next();
         break;
       case "prev":
         Spicetify.Player.back();
+        break;
+      case "heart":
+        Spicetify.Player.toggleHeart();
+        break;
+      case "mute":
+        Spicetify.Player.toggleMute();
+        break;
+      case "shuffle":
+        Spicetify.Player.toggleShuffle();
+        break;
+      case "repeat":
+        Spicetify.Player.toggleRepeat();
+        break;
+      case "skip-prev":
+        Spicetify.Player.skipBack();
+        break;
+      case "skip-next":
+        Spicetify.Player.skipForward();
         break;
       case "volume_up": {
         const current = Spicetify.Player.getVolume();
