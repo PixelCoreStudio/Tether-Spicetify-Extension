@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tether",
+    "description": "Add Makro/Stream Deck support and make a overlay for streaming.",
+    "preview": "preview.png",
+    "main": "tether.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "Void Core", "url": "https://github.com/PixelCoreStudio" }
+    ],
+    "tags": ["streaming", "makro", "controll"]
+  },
+  {
+    "name": "Tether",
+    "description": "Add Makro/Stream Deck support and make a overlay for streaming.",
+    "preview": "https://i.ibb.co/CpN2SmJt/7BCw-MWz.png",
+    "main": "tether-plugin/tether.js",
+    "readme": "filepathFromGitRepo/README.md",
+    "branch": "my-branch"
+  },
+]
