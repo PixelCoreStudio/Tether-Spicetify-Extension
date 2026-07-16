@@ -20,6 +20,15 @@ If you are on Linux/MacOS go to `~/.config/spicetify/Extensions/` and put it the
 
 If you have done that go to the terminal/powershell and type that:
 ```
-spicetify config extensions <filename.js>
+spicetify config extensions tether.js
 spicetify apply
 ```
+
+If it comes to the Marketplace and you have it Installed manually I would recommend to uninstall the manual file with:
+```
+spicetify config extensions tether.js-
+spicetify apply
+```
+And look in your extensions path if its still there when it is just delete it.
+Then install it with the Marketplace.
+
