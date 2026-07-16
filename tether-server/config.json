@@ -1,0 +1,5 @@
+{
+    "outputPath": "C:\\Users\\gehei\\Desktop\\DEV\\Spicetify\\Get Data\\tether-server\\output",
+    "format": "{artist} - {title}",
+    "updateRate": 200
+}

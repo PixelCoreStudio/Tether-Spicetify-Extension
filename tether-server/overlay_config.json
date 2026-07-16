@@ -1,0 +1,277 @@
+{
+    "bgColor": "#000000",
+    "bgOpacity": "0.75",
+    "textColor": "#ffffff",
+    "mutedColor": "#b3b3b3",
+    "accentColor": "#1db954",
+    "borderColor": "#282828",
+    "borderWidth": "2",
+    "borderStyle": "solid",
+    "tlRadius": "24",
+    "trRadius": "24",
+    "blRadius": "24",
+    "brRadius": "24",
+    "widgetWidth": "634",
+    "widgetPadding": "15",
+    "widgetHeight": "120",
+    "widgetHeightAuto": true,
+    "widgetRotation": "0",
+    "coverSize": "85",
+    "ctlRadius": "6",
+    "ctrRadius": "6",
+    "cblRadius": "6",
+    "cbrRadius": "6",
+    "coverRotation": "0",
+    "coverSpin": true,
+    "showSeparator": true,
+    "separatorColor": "#282828",
+    "separatorHeight": "1",
+    "fontSizeTitle": "20",
+    "fontSizeArtist": "16",
+    "fontFamily": "system-ui",
+    "animationType": "fade",
+    "showCover": true,
+    "showProgress": true,
+    "widgetWidthSlider": "634",
+    "widgetHeightSlider": "225",
+    "widgetPaddingSlider": "20",
+    "bgOpacitySlider": "0.85",
+    "bgType": "linear",
+    "bgColorAlpha": "1",
+    "stopColorPicker": "#55215f",
+    "stopColorAlpha": "1",
+    "stopPosition": "100",
+    "bgDirection": "to bottom right",
+    "showShadow": true,
+    "glowType": "gradient",
+    "glowColor": "#1db954",
+    "glowColorAlpha": "0.4",
+    "glowStopColorPicker": "#ff007f",
+    "glowStopColorAlpha": "1",
+    "glowStopPosition": "0",
+    "glowDirection": "to right",
+    "glowBlurSlider": "20",
+    "glowBlur": "20",
+    "glowSpreadSlider": "24",
+    "glowSpread": "24",
+    "syncRadius": true,
+    "tlRadiusSlider": "24",
+    "trRadiusSlider": "24",
+    "blRadiusSlider": "24",
+    "brRadiusSlider": "24",
+    "borderActive": false,
+    "borderType": "gradient",
+    "borderWidthSlider": "2",
+    "borderColorAlpha": "1",
+    "borderStopColorPicker": "#55215f",
+    "borderStopColorAlpha": "1",
+    "borderStopPosition": "100",
+    "borderDirection": "to bottom right",
+    "coverSizeSlider": "85",
+    "ctlRadiusSlider": "10",
+    "vinylHole": true,
+    "vinylSpeedSlider": "8",
+    "vinylSpeed": "8",
+    "fontEngineMode": "google",
+    "customFontName": "Inter",
+    "fontSizeTitleSlider": "20",
+    "fontSizeArtistSlider": "16",
+    "titleGradientActive": true,
+    "textColorAlpha": "1",
+    "titleStopColorPicker": "#6f3bce",
+    "titleStopColorAlpha": "1",
+    "titleStopPosition": "100",
+    "titleGradAngleSlider": "114",
+    "titleGradAngle": "114",
+    "artistGradientActive": true,
+    "artistColor": "#9ca3af",
+    "artistColorAlpha": "1",
+    "artistStopColorPicker": "#978963",
+    "artistStopColorAlpha": "1",
+    "artistStopPosition": "100",
+    "artistGradAngleSlider": "90",
+    "artistGradAngle": "90",
+    "textStrokeActive": false,
+    "textStrokeType": "solid",
+    "textStrokeColor": "#000000",
+    "textStrokeColorAlpha": "0.3",
+    "strokeStopColorPicker": "#1db954",
+    "strokeStopColorAlpha": "1",
+    "strokeStopPosition": "0",
+    "strokeDirection": "to right",
+    "textStrokeWidthSlider": "1",
+    "textStrokeWidth": "1",
+    "fontShadow": false,
+    "textShadowColor": "#000000",
+    "textShadowColorAlpha": "0.6",
+    "shadowXSlider": "1",
+    "shadowX": "1",
+    "shadowYSlider": "1",
+    "shadowY": "1",
+    "shadowBlurSlider": "3",
+    "shadowBlur": "3",
+    "separatorType": "gradient",
+    "separatorHeightSlider": "1",
+    "separatorColorAlpha": "1",
+    "sepStopColorPicker": "#0062ff",
+    "sepStopColorAlpha": "1",
+    "sepStopPosition": "100",
+    "sepDirection": "to left",
+    "showProgressBar": true,
+    "progressBarType": "gradient",
+    "timeDisplayMode": "show",
+    "accentColorAlpha": "1",
+    "progressStopColorPicker": "#a600ff",
+    "progressStopColorAlpha": "1",
+    "progressStopPosition": "100",
+    "progressDirection": "to right",
+    "progressBgColor": "#2a2222",
+    "progressBgColorAlpha": "0",
+    "simulateTime": false,
+    "enableScrolling": true,
+    "scrollThresholdSlider": "0",
+    "scrollThreshold": "0",
+    "scrollSpeedSlider": "12",
+    "scrollSpeed": "12",
+    "liveVolume": "50",
+    "entryAnimation": "animate-bounceIn",
+    "customAnimationClass": "custom-bounce",
+    "customKeyframesCss": "@keyframes custom-bounce {\n  0% { transform: translateY(100px) scale(0.8); opacity: 0; }\n  50% { transform: translateY(-10px) scale(1.05); opacity: 0.8; }\n  100% { transform: translateY(0) scale(1); opacity: 1; }\n}",
+    "entryDurationSlider": "1.85",
+    "entryDuration": "1.85",
+    "gradients": {
+        "background": {
+            "stops": [
+                {
+                    "color": "#000000",
+                    "position": 0
+                },
+                {
+                    "color": "#55215f",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 1
+        },
+        "glow": {
+            "stops": [
+                {
+                    "color": "#ff007f",
+                    "position": 0
+                },
+                {
+                    "color": "#7f00ff",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 0
+        },
+        "border": {
+            "stops": [
+                {
+                    "color": "#000000",
+                    "position": 0
+                },
+                {
+                    "color": "#55215F",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 1
+        },
+        "title": {
+            "stops": [
+                {
+                    "color": "#6d95c0",
+                    "position": 0
+                },
+                {
+                    "color": "#6f3bce",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 1
+        },
+        "artist": {
+            "stops": [
+                {
+                    "color": "#93d7ba",
+                    "position": 0
+                },
+                {
+                    "color": "#978963",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 1
+        },
+        "stroke": {
+            "stops": [
+                {
+                    "color": "#1db954",
+                    "position": 0
+                },
+                {
+                    "color": "#ffca3a",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 0
+        },
+        "sep": {
+            "stops": [
+                {
+                    "color": "#67b6c1",
+                    "position": 0
+                },
+                {
+                    "color": "#0062ff",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 1
+        },
+        "progress": {
+            "stops": [
+                {
+                    "color": "#931a4f",
+                    "position": 0
+                },
+                {
+                    "color": "#a600ff",
+                    "position": 100
+                }
+            ],
+            "selectedIdx": 1
+        }
+    },
+    "bgColorHex": "000000",
+    "stopColorHex": "1DB954",
+    "glowColorHex": "1DB954",
+    "glowStopColorHex": "FF007F",
+    "borderColorHex": "282828",
+    "borderStopColorHex": "1DB954",
+    "fontFileInput": "",
+    "textColorHex": "FFFFFF",
+    "titleStopColorHex": "1DB954",
+    "artistColorHex": "9CA3AF",
+    "artistStopColorHex": "FF595E",
+    "textStrokeColorHex": "000000",
+    "strokeStopColorHex": "1DB954",
+    "textShadowColorHex": "000000",
+    "separatorColorHex": "282828",
+    "sepStopColorHex": "1DB954",
+    "accentColorHex": "1DB954",
+    "progressStopColorHex": "1DB954",
+    "progressBgColorHex": "242424",
+    "importFile": "",
+    "obsLink": "http://localhost:6969/widget.html",
+    "bgGradients": "rgba(29,185,84,1) 0%, rgba(25,130,196,1) 50%, rgba(255,89,94,1) 100%",
+    "glowGradients": "rgba(255,0,127,1) 0%, rgba(127,0,255,1) 100%",
+    "borderGradients": "rgba(29,185,84,1) 0%, rgba(30,80,162,1) 100%",
+    "sepGradients": "rgba(29,185,84,1) 0%, rgba(30,80,162,1) 100%",
+    "progressGradients": "rgba(29,185,84,1) 0%, rgba(25,130,196,1) 100%",
+    "titleGradients": "rgba(29,185,84,1) 0%, rgba(25,130,196,1) 100%",
+    "artistGradients": "rgba(255,89,94,1) 0%, rgba(255,202,58,1) 100%",
+    "strokeGradients": "rgba(29,185,84,1) 0%, rgba(255,202,58,1) 100%"
+}
