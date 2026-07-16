@@ -7,4 +7,4 @@
 If you don't have Premium, Spotify won't give you the feature to controll spotify with any makro deck
 or get an live synced overlay because you don't get access to the developer tools anymore.
 
-With Tether you get that for ####Free
+With Tether you get that for ###Free
