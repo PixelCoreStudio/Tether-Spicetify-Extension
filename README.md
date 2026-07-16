@@ -51,3 +51,5 @@ If you see something like this everything is setup you can go in the editor and 
 <img width="1907" height="892" alt="image" src="https://github.com/user-attachments/assets/c71268f8-3ba4-4270-a3d9-65477db06f24" />
 
 ### If you encounter any problem/fail or need help you can open a issue on github or contact me in [Discord](https://discord.gg/AqZmmXQDm3)
+
+Also the tutorial for implementing in macro decks is AI generated if something is wrong and you know how feel free to tell me because I don't use most of the macro decks.
