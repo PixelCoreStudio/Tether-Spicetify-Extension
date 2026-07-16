@@ -1,5 +1,9 @@
 # Tether
 
+## ⭐ Don't forget to star the project if you like it. It helps the project to be seen more.
+
+[![Stars](https://img.shields.io/github/stars/PixelCoreStudio/Tether-Spicetify-Extension?style=social)](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/stargazers)
+
 <img width="3812" height="1938" alt="preview" src="https://github.com/user-attachments/assets/b35cb474-e228-4757-9460-591df7abfdca" />
 
 ## A new way to controll your Spotify end get a overlay without having to pay for premium.
