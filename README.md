@@ -14,7 +14,7 @@ or get an live synced overlay because you don't get access to the developer tool
 With Tether you get that for **Free**. Full controll with your preffered Macro deck 
 like Elgato Stream Deck or Macro Deck 2 or even Touch Portal. And a beautifull overlay creator.
 
-## The Instalation
+## The Installation
 
 If it is already released on the Spicetify Marketplace Install it on there
 if not go to [the plugin](https://github.com/PixelCoreStudio/Tether-Spicetify-Extension/releases/) and download the tether.js
