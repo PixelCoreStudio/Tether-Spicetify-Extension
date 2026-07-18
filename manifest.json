@@ -1,7 +1,7 @@
 [
   {
     "name": "Tether",
-    "description": "Add Makro/Stream Deck support and make a overlay for streaming.",
+    "description": "Add Macro Deck support and make a overlay for streaming.",
     "preview": "preview.png",
     "main": "tether-plugin/tether.js",
     "readme": "README.md",
