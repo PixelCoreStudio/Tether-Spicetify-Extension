@@ -59,3 +59,7 @@ If you see something like this everything is setup you can go in the editor and 
 Also the tutorial for implementing in macro decks is AI generated if something is wrong and you know how feel free to tell me because I don't use most of the macro decks. I only made an extension for Macro Deck 2 for now but I don't know when it gets published to the plugin store.
 
 More features coming soon. Little info the most features are gonna be mostly for streamers but features for private use are also coming soon.
+
+# Disclaimer:
+
+Currently, all aspects of the website UI and the overlay are AI-generated. I plan to replace them eventually when I have the time, but this will take some time.
